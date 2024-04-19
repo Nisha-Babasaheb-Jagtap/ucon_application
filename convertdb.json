@@ -1,0 +1,262 @@
+{
+    "currency": [
+        {
+            "from": "Dollar(USD)",
+            "to": "Rupee(INR)",
+            "factor": 81.51
+        },
+        {
+            "from": "Rupee(INR)",
+            "to": "Dollar(USD)",
+            "factor": 0.012
+        },
+        {
+            "from": "Pound(GBP)",
+            "to": "Rupee(INR)",
+            "factor": 113.11
+        },
+        {
+            "from": "Rupee(INR)",
+            "to": "Pound(GBP)",
+            "factor": 0.0088
+        },
+        {
+            "from": "Euro(EUR)",
+            "to": "Rupee(INR)",
+            "factor": 94.92
+        },
+        {
+            "from": "Rupee(INR)",
+            "to": "Euro(EUR)",
+            "factor": 0.0105
+        },
+        {
+            "from": "Pound(GBP)",
+            "to": "Dollar(USD)",
+            "factor": 1.37
+        },
+        {
+            "from": "Dollar(USD)",
+            "to": "Pound(GBP)",
+            "factor": 0.73
+        },
+        {
+            "from": "Euro(EUR)",
+            "to": "Dollar(USD)",
+            "factor": 1.16
+        },
+        {
+            "from": "Dollar(USD)",
+            "to": "Euro(EUR)",
+            "factor": 0.86
+        },
+        {
+            "from": "Pound(GBP)",
+            "to": "Euro(EUR)",
+            "factor": 1.11
+        },
+        {
+            "from": "Euro(EUR)",
+            "to": "Pound(GBP)",
+            "factor": 0.90
+        },
+        {
+            "from": "Franc(CHF)",
+            "to": "Rupee(INR)",
+            "factor": 94.33
+        },
+        {
+            "from": "Rupee(INR)",
+            "to": "Franc(CHF)",
+            "factor": 0.011
+        },
+        {
+            "from": "Franc(CHF)",
+            "to": "Dollar(USD)",
+            "factor": 1.14
+        },
+        {
+            "from": "Dollar(USD)",
+            "to": "Franc(CHF)",
+            "factor": 0.88
+        },
+        {
+            "from": "Franc(CHF)",
+            "to": "Euro(EUR)",
+            "factor": 1.04
+        },
+        {
+            "from": "Euro(EUR)",
+            "to": "Franc(CHF)",
+            "factor":  0.96
+        },
+        {
+            "from": "Franc(CHF)",
+            "to": "Pound(GBP)",
+            "factor": 0.89
+        },
+        {
+            "from": "Pound(GBP)",
+            "to": "Franc(CHF)",
+            "factor": 1.12
+        },
+        {
+            "from": "Ringgit(MYR)",
+            "to": "Rupee(INR)",
+            "factor": 17.67
+        },
+        {
+            "from": "Rupee(INR)",
+            "to": "Ringgit(MYR)",
+            "factor": 0.057
+        },
+        {
+            "from": "Ringgit(MYR)",
+            "to": "Dollar(USD)",
+            "factor": 17.67
+        },
+        {
+            "from": "Dollar(USD)",
+            "to": "Ringgit(MYR)",
+            "factor": 0.057
+        },
+        {
+            "from": "Ringgit(MYR)",
+            "to": "Euro(EUR)",
+            "factor": 0.19
+        }
+    
+    ],
+    
+    "distance": [
+        {
+            "from": "Meters(m)",
+            "to": "Kilometers(km)",
+            "factor": 0.001
+        },
+        {
+            "from": "Kilometers(km)",
+            "to": "Meters(m)",
+            "factor": 1000
+        },
+        {
+            "from": "Meters(m)",
+            "to": "Centimeters(cm)",
+            "factor": 100
+        },
+        {
+            "from": "Kilometers(km)",
+            "to": "Centimeters(cm)",
+            "factor": 100000
+    
+        },
+        {
+            "from": "Inches(inch)",
+            "to": "Centimeters(cm)",
+            "factor": 2.54
+        },
+        {
+            "from": "Centimeters(cm)",
+            "to": "Inches(inch)",
+            "factor": 0.39370079
+        },
+        {
+            "from": "Meters(m)",
+            "to": "Millimeters(mm)",
+            "factor": 1000
+        },
+        {
+            "from": "Millimeters(mm)",
+            "to": "Meters(m)",
+            "factor": 0.001
+        },
+        {
+            "from": "Inches(inch)",
+            "to": "Millimeters(mm)",
+            "factor": 25.4
+        },
+        {
+            "from": "Millimeters(mm)",
+            "to": "Inches(inch)",
+            "factor": 0.03937008
+        },
+        {
+            "from": "Inches(inch)",
+            "to": "Kilometers(km)",
+            "factor":  0.0000254
+        },
+        {
+            "from": "Kilometers(km)",
+            "to": "Inches(inch)",
+            "factor": 39370.0787
+        },
+        {
+            "from": "Meters(m)",
+            "to": "Inches(inch)",
+            "factor": 0.03937008
+        },
+        {
+            "from": "Inches(inch)",
+            "to": " Meters(m)",
+            "factor": 0.0254
+        },
+        {
+            "from": "Meters(m)",
+            "to": "Miles(mile)",
+            "factor": 0.00062137
+        },
+        {
+            "from": "Miles(mile)",
+            "to": " Meters(m)",
+            "factor": 1609.344
+        },
+        {
+            "from": "Miles(mile)",
+            "to": "Centimeters(cm)",
+            "factor": 160934.4
+        },
+        {
+            "from": "Centimeters(cm)",
+            "to": "Miles(mile)",
+            "factor": 0.00000621
+        },
+        {
+            "from": "Kilometers(km)",
+            "to": "Miles(mile)",
+            "factor": 0.62137119
+        },
+        {
+            "from": "Miles(mile)",
+            "to": "Kilometers(km)",
+            "factor": 1.609344
+        },
+        {
+            "from": "Meters(m)",
+            "to": "Foots(foot)",
+            "factor": 0.03937008
+        },
+        {
+            "from": "Foots(foot)",
+            "to": "Meters(m)",
+            "factor": 0.0254
+        },
+        {
+            "from": "Centimeters(cm)",
+            "to": "Foots(foot)",
+            "factor": 0.03937008
+        },
+        {
+            "from": "Foots(foot)",
+            "to": "Centimeters(cm) ",
+            "factor": 0.0254
+        },
+        {
+            "from": "Kilometers(km)",
+            "to": "Foots(foot)",
+            "factor": 0.03937008
+        }
+    ]
+}
+
+    
+    
